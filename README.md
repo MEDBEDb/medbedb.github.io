@@ -10,4 +10,4 @@ This is the combination of two older blog dumps that I have from 2000 - 2009. al
 It is automatically transformed by Jekyll into a static site whenever I push this repository to GitHub.
 
 License
-The following directories and their contents are Copyright Corey Donohoe. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Corey Donohoe. You may not reuse anything therein without my permission
